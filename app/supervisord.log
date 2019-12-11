@@ -1,0 +1,122 @@
+2019-11-27 16:58:39,932 CRIT Supervisor running as root (no user in config file)
+2019-11-27 16:58:39,937 INFO supervisord started with pid 1
+2019-11-27 16:58:40,942 INFO spawned: 'nginx' with pid 9
+2019-11-27 16:58:40,944 INFO spawnerr: can't find command '/usr/sbin/php-fpm5.6'
+2019-11-27 16:58:40,950 INFO spawned: 'memcached' with pid 10
+2019-11-27 16:58:41,985 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-27 16:58:41,987 INFO spawnerr: can't find command '/usr/sbin/php-fpm5.6'
+2019-11-27 16:58:41,987 INFO success: memcached entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-27 16:58:43,991 INFO spawnerr: can't find command '/usr/sbin/php-fpm5.6'
+2019-11-27 16:58:46,997 INFO spawnerr: can't find command '/usr/sbin/php-fpm5.6'
+2019-11-27 16:58:46,997 INFO gave up: php-fpm entered FATAL state, too many start retries too quickly
+2019-11-27 17:02:36,091 WARN received SIGINT indicating exit request
+2019-11-27 17:02:36,091 INFO waiting for nginx, memcached to die
+2019-11-27 17:02:36,092 INFO stopped: memcached (exit status 0)
+2019-11-27 17:02:37,101 INFO stopped: nginx (exit status 0)
+2019-11-27 17:12:18,415 CRIT Supervisor running as root (no user in config file)
+2019-11-27 17:12:18,419 INFO supervisord started with pid 1
+2019-11-27 17:12:19,423 INFO spawned: 'nginx' with pid 8
+2019-11-27 17:12:19,425 INFO spawnerr: can't find command '/usr/sbin/php-fpm5.6'
+2019-11-27 17:12:19,430 INFO spawned: 'memcached' with pid 9
+2019-11-27 17:12:20,435 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-27 17:12:20,436 INFO spawnerr: can't find command '/usr/sbin/php-fpm5.6'
+2019-11-27 17:12:20,436 INFO success: memcached entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-27 17:12:22,440 INFO spawnerr: can't find command '/usr/sbin/php-fpm5.6'
+2019-11-27 17:12:25,444 INFO spawnerr: can't find command '/usr/sbin/php-fpm5.6'
+2019-11-27 17:12:25,444 INFO gave up: php-fpm entered FATAL state, too many start retries too quickly
+2019-11-27 17:22:33,051 WARN received SIGINT indicating exit request
+2019-11-27 17:22:33,051 INFO waiting for nginx, memcached to die
+2019-11-27 17:22:33,052 INFO stopped: memcached (exit status 0)
+2019-11-27 17:22:34,061 INFO stopped: nginx (exit status 0)
+2019-11-27 17:24:17,038 CRIT Supervisor running as root (no user in config file)
+2019-11-27 17:24:17,043 INFO supervisord started with pid 1
+2019-11-27 17:24:18,046 INFO spawned: 'nginx' with pid 8
+2019-11-27 17:24:18,050 INFO spawned: 'php-fpm' with pid 9
+2019-11-27 17:24:18,057 INFO spawned: 'memcached' with pid 10
+2019-11-27 17:24:19,145 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-27 17:24:19,146 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-27 17:24:19,146 INFO success: memcached entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-27 18:29:05,974 INFO exited: nginx (exit status 0; expected)
+2019-11-27 19:37:39,072 WARN received SIGINT indicating exit request
+2019-11-27 19:37:39,082 INFO waiting for php-fpm, memcached to die
+2019-11-27 19:37:39,083 INFO stopped: memcached (exit status 0)
+2019-11-27 19:37:39,307 INFO stopped: php-fpm (exit status 0)
+2019-11-28 13:22:51,630 CRIT Supervisor running as root (no user in config file)
+2019-11-28 13:22:51,663 INFO supervisord started with pid 1
+2019-11-28 13:22:52,684 INFO spawned: 'nginx' with pid 8
+2019-11-28 13:22:52,713 INFO spawned: 'php-fpm' with pid 9
+2019-11-28 13:22:52,724 INFO spawned: 'memcached' with pid 10
+2019-11-28 13:22:53,728 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-28 13:22:53,728 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-28 13:22:53,729 INFO success: memcached entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-28 14:36:00,236 WARN received SIGTERM indicating exit request
+2019-11-28 14:36:00,237 INFO waiting for nginx, php-fpm, memcached to die
+2019-11-28 14:36:00,238 INFO stopped: memcached (exit status 0)
+2019-11-28 14:36:00,930 INFO stopped: php-fpm (exit status 0)
+2019-11-28 14:36:00,934 INFO stopped: nginx (exit status 0)
+2019-11-29 17:50:58,845 CRIT Supervisor running as root (no user in config file)
+2019-11-29 17:50:58,851 INFO supervisord started with pid 1
+2019-11-29 17:50:59,854 INFO spawned: 'nginx' with pid 8
+2019-11-29 17:50:59,857 INFO spawned: 'php-fpm' with pid 9
+2019-11-29 17:50:59,860 INFO spawned: 'memcached' with pid 10
+2019-11-29 17:51:01,214 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-29 17:51:01,214 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-29 17:51:01,215 INFO success: memcached entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-29 18:06:27,662 WARN received SIGINT indicating exit request
+2019-11-29 18:06:27,662 INFO waiting for nginx, php-fpm, memcached to die
+2019-11-29 18:06:27,664 INFO stopped: memcached (exit status 0)
+2019-11-29 18:06:27,697 INFO stopped: php-fpm (exit status 0)
+2019-11-29 18:06:27,702 INFO stopped: nginx (exit status 0)
+2019-11-29 18:07:40,220 CRIT Supervisor running as root (no user in config file)
+2019-11-29 18:07:40,223 INFO supervisord started with pid 1
+2019-11-29 18:07:41,227 INFO spawned: 'nginx' with pid 8
+2019-11-29 18:07:41,230 INFO spawned: 'php-fpm' with pid 9
+2019-11-29 18:07:41,235 INFO spawned: 'memcached' with pid 10
+2019-11-29 18:07:41,277 INFO exited: nginx (exit status 1; not expected)
+2019-11-29 18:07:42,316 INFO spawned: 'nginx' with pid 31
+2019-11-29 18:07:42,317 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-29 18:07:42,317 INFO success: memcached entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-29 18:07:42,349 INFO exited: nginx (exit status 1; not expected)
+2019-11-29 18:07:44,354 INFO spawned: 'nginx' with pid 32
+2019-11-29 18:07:44,371 INFO exited: nginx (exit status 1; not expected)
+2019-11-29 18:07:47,377 INFO spawned: 'nginx' with pid 33
+2019-11-29 18:07:47,395 INFO exited: nginx (exit status 1; not expected)
+2019-11-29 18:07:48,397 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2019-11-29 18:08:14,025 WARN received SIGINT indicating exit request
+2019-11-29 18:08:14,025 INFO waiting for php-fpm, memcached to die
+2019-11-29 18:08:14,027 INFO stopped: memcached (exit status 0)
+2019-11-29 18:08:14,042 INFO stopped: php-fpm (exit status 0)
+2019-11-29 18:08:46,853 CRIT Supervisor running as root (no user in config file)
+2019-11-29 18:08:46,856 INFO supervisord started with pid 1
+2019-11-29 18:08:47,860 INFO spawned: 'nginx' with pid 8
+2019-11-29 18:08:47,863 INFO spawned: 'php-fpm' with pid 9
+2019-11-29 18:08:47,866 INFO spawned: 'memcached' with pid 10
+2019-11-29 18:08:48,918 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-29 18:08:48,918 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-11-29 18:08:48,918 INFO success: memcached entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-11 14:25:02,904 CRIT Supervisor running as root (no user in config file)
+2019-12-11 14:25:02,911 INFO supervisord started with pid 1
+2019-12-11 14:25:03,915 INFO spawned: 'nginx' with pid 8
+2019-12-11 14:25:03,918 INFO spawned: 'php-fpm' with pid 9
+2019-12-11 14:25:03,920 INFO spawned: 'memcached' with pid 10
+2019-12-11 14:25:05,333 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-11 14:25:05,333 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-11 14:25:05,333 INFO success: memcached entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-11 14:26:03,436 WARN received SIGTERM indicating exit request
+2019-12-11 14:26:03,437 INFO waiting for nginx, php-fpm, memcached to die
+2019-12-11 14:26:03,437 INFO stopped: memcached (exit status 0)
+2019-12-11 14:26:03,477 INFO stopped: php-fpm (exit status 0)
+2019-12-11 14:26:03,485 INFO stopped: nginx (exit status 0)
+2019-12-11 16:56:37,299 CRIT Supervisor running as root (no user in config file)
+2019-12-11 16:56:37,303 INFO supervisord started with pid 1
+2019-12-11 16:56:38,306 INFO spawned: 'nginx' with pid 8
+2019-12-11 16:56:38,312 INFO spawned: 'php-fpm' with pid 9
+2019-12-11 16:56:38,319 INFO spawned: 'memcached' with pid 10
+2019-12-11 16:56:39,431 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-11 16:56:39,431 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-11 16:56:39,432 INFO success: memcached entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2019-12-11 17:16:37,346 INFO exited: nginx (exit status 0; expected)
+2019-12-11 17:23:21,863 WARN received SIGTERM indicating exit request
+2019-12-11 17:23:21,863 INFO waiting for php-fpm, memcached to die
+2019-12-11 17:23:21,867 INFO stopped: memcached (exit status 0)
+2019-12-11 17:23:21,927 INFO stopped: php-fpm (exit status 0)
