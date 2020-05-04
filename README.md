@@ -2,7 +2,7 @@
 
 ## Application run using docker tool
 
-Creat databases container
+Create databases container
 ```
 docker run --network=laravel -e MYSQL_ROOT_PASSWORD=1234  --name db-laravel mysql:5.6
 ```
