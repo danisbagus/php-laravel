@@ -32,7 +32,7 @@ Run Laravel app container
 docker run --network=laravel -p 7002:80 -v $(pwd)/app:/app --name app-laravel danisbagus/laravel
 ```
 
-Start:
+Start
 ```
 ./run.sh
 ```
@@ -42,15 +42,19 @@ Stop
 ./stop.sh
 ```
 
-## PORT
 
-Container port:
+## Container port
+
 laravel-admin:7001
+
 app-laravel:7002
 
 
-Docker network:
+## Docker network
+
 db-laravel:172.19.0.2
+
 laravel-admin:172.19.0.3
+
 app-laravel:172.19.0.4
 
